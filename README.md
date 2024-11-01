@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Java**
  </p>
  <p align="center"> 
-- 📫 How to reach me **adi120kush@gmail.com**
+- 📫 How to reach me **adi190kush@gmail.com**
  </p>
 
 <h3 align="center">Languages and Tools:</h3>
