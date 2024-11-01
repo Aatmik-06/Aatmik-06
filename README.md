@@ -18,6 +18,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aatmik-06&show_icons=true&locale=en&layout=compact" alt="aatmik-06" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aatmik-06&show_icons=true&locale=en" alt="aatmik-06" /></p>
+
 
 
