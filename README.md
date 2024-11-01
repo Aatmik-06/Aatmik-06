@@ -6,7 +6,8 @@
 
 <p align="center">  
 - 🌱 I’m currently learning **Java**
-
+ </p>
+ <p align="center"> 
 - 📫 How to reach me **adi120kush@gmail.com**
  </p>
 
