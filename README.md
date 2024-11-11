@@ -2,10 +2,10 @@
 <h3 align="center">A passionate Full Stack MERN developer from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aatmik-06&label=Profile%20views&color=0e75b6&style=flat" alt="aatmik-06" /> </p>
-
-- 🌱 I’m currently learning **Node JS**
-
-- 📫 How to reach me **adi120kush@gmail.com**
+<p align="center">
+- 🌱 I’m currently learning **Node JS**   </p>
+<p align="center">
+- 📫 How to reach me **adi120kush@gmail.com**  </p>
 
 
 
