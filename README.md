@@ -3,12 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aatmik-06&label=Profile%20views&color=0e75b6&style=flat" alt="aatmik-06" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Node JS**
 
 - 📫 How to reach me **adi120kush@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+<p align="center">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
