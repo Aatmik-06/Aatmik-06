@@ -4,7 +4,6 @@
 <p align="center">
 - 🌱 I’m currently learning **Next JS**   </p>
 <p align="center">
-   
 - 📫 How to reach me **adi120kush@gmail.com** </p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
