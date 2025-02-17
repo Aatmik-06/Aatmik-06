@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aatmik Kushwaha</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTc0N3o0cjU1dGRrN3BsOHI3OXRsbXB5ejlqcmVmMTFuZTI2YmJodSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="350px" align="right">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTc0N3o0cjU1dGRrN3BsOHI3OXRsbXB5ejlqcmVmMTFuZTI2YmJodSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="350px" height="350px" align="right">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aatmik-06&label=Profile%20views&color=0e75b6&style=flat" alt="aatmik-06" /> </p>
 <p align="center">
 - 🌱 I’m currently learning **Next JS**   </p>
