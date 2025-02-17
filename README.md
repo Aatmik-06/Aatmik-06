@@ -8,7 +8,7 @@
 - 📫 How to reach me **adi120kush@gmail.com** </p>
 
 <p align="Left"> 
-   - 👨‍💻 All my projects are available at my GitHub</p>
+   - 👨‍💻 All my projects are available at my GitHub </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
