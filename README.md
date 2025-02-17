@@ -8,7 +8,7 @@
 - 📫 How to reach me **adi120kush@gmail.com** </p>
 
 
-   - 👨‍💻 All my projects are available at my  [GitHub](https://github.com/Aatmik-06?tab=repositories)  
+- 👨‍💻 All my projects are available at my  [GitHub](https://github.com/Aatmik-06?tab=repositories)  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
