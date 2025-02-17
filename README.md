@@ -6,6 +6,12 @@
 - 🌱 I’m currently learning **Next JS**   </p>
 <p align="Left">
 - 📫 How to reach me **adi120kush@gmail.com** </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/aatmik-kushwaha/" target="blank">
+<img align="center" src="https://img.shields.io/badge/linkedin-1572B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="Aatmik"  /></a>
+
 <h3 align="Left">Languages and Tools:</h3>
 <p align="Left">
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
