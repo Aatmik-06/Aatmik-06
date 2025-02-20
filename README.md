@@ -3,14 +3,15 @@
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTc0N3o0cjU1dGRrN3BsOHI3OXRsbXB5ejlqcmVmMTFuZTI2YmJodSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="350px" height="300px" align="right">
 <p align="Left"> <img src="https://komarev.com/ghpvc/?username=aatmik-06&label=Profile%20views&color=0e75b6&style=flat" alt="aatmik-06" /> </p>
 
-- 🌱 I’m currently learning **Next JS**   
-
+- 🌱 I’m currently learning **Next JS**
+- 
 - 📫 How to reach me **adi120kush@gmail.com** 
 
 
 - 👨‍💻 All my projects are available at my  [GitHub](https://github.com/Aatmik-06?tab=repositories)  
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://www.linkedin.com/in/aatmik-kushwaha/" target="blank">
 <img align="center" src="https://img.shields.io/badge/linkedin-1572B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="Aatmik"  /></a>
